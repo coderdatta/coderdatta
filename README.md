@@ -1,12 +1,14 @@
-<h1>Hi 👋, I'm Lakshmana Datta</h1>
-<p>A passionate frontend developer from India</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.youtube.com/@codingwithlakshmanadatta" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p>
+# Hi there, I'm Paruchuru Lakshmana Datta 👋
+
+I'm a startup founder (**Synapse.ai**) and an AI-native developer focusing on rapid prototyping, agentic workflows, and modern software architectures. 
+
+Most of my day-to-day development happens in local environments and private codebases as I build and test experimental AI applications, custom coding assistants, and local tool pipelines. 
+
+### What I Work With
+* **AI & Agentic Stacks:** Working extensively with LLM integrations, custom model workflows, and prompt engineering frameworks.
+* **Modern Development:** Rapidly prototyping full-stack applications using modern AI-assisted engineering tools (Cursor, Bolt, Lovable) and local automation environments.
+* **Systems & Tools:** Tinkering with network diagnostics, local security setups, and practical utility scripts.
+
+### Connect With Me
+* **Role:** Founder @ Synapse.ai
+* **Focus:** AI Systems, Rapid Prototyping, & Technical Innovation
